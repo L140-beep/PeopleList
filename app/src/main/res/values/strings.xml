@@ -1,7 +1,29 @@
 <resources>
     <string name="app_name">PeopleListK</string>
-    <string-array name="samplelist">
-        <item>First</item>
-        <item>Second</item>
+    <string-array name="name">
+        <item>Томас</item>
+        <item>Максим</item>
+        <item>Влад</item>
+        <item>Дима</item>
+        <item>Иван</item>
+        <item>Адольф</item>
+        <item>Райан</item>
+        <item>Гордон</item>
+
+    </string-array>
+
+    <string-array name="surname">
+        <item>Клыпин</item>
+        <item>Сизых</item>
+        <item>Шелби</item>
+        <item>Бейтман</item>
+        <item>Гордон</item>
+        <item>Путин</item>
+        <item>Обама</item>
+        <item>Диксон</item>
+        <item>Гослинг</item>
+        <item>Морган</item>
+        <item>Моцарт</item>
+        <item>Бах</item>
     </string-array>
 </resources>
